@@ -18,7 +18,14 @@ Python, LangGraph, LangChain, Groq (gpt-oss-20b), SQLite
 3. `python hospital_agent.py`
 
 ## Demo
-[Video link here]
+
+
+https://github.com/user-attachments/assets/bc010325-b439-4f40-8129-840f1b1f9614
+
+
+
+
+
 
 ## Known limits / next steps
 - One appointment per patient name (a real system would use patient ID)
